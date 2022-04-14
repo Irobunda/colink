@@ -59,7 +59,7 @@ $_SESSION['message'] = '';
 Hello '.$name.',
 							
 Thank you for signing up!Please click this to activate your account
-http://localhost:8080/projectspw/verify.php?email='.$email.'&token='.$token; ' ';
+http://localhost:8080/projectspw/verify.php?email='.$email.'&token='.$token'';
 									 
 							
 							mail( $to, $subject, $message_body );							
