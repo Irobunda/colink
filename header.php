@@ -1,7 +1,8 @@
 <?php  
 ?>
+<!DOCTYPE html>
 <html lang="zxx" class="no-js">
-	<head>
+	<head> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=yes">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
